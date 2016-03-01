@@ -297,6 +297,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ShareInstanceEx",
+					"$(PROJECT_DIR)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = lsw.self.ShareInstanceEx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -316,6 +317,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ShareInstanceEx",
+					"$(PROJECT_DIR)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = lsw.self.ShareInstanceEx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
